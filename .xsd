@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:element name="YAZARLAR">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="YazarId" type="xs:number"/>
+      <xs:element name="Adi" type="xs:string"/>
+      <xs:element name="Soyadi" type="xs:string"/>
+      <xs:element name="DogumTarihi" type="xs:date"/>
+      <xs:element name="Memleket" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
