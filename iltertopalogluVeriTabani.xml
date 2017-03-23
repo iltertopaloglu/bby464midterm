@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KUTUPHANE>
+<YAZARLAR>   
+    <yazar>
+        <YazarId>1</YazarId>  
+        <Adi>Hakan</Adi>
+        <Soyadi>Günday</Soyadi>
+        <DogumTarihi>1976</DogumTarihi>
+        <Memleketi>Türkiye</Memleketi>
+    </yazar>
+    <yazar>
+        <YazarId>2</YazarId>
+        <Adi>Emrah</Adi>
+        <Soyadi>Serbes</Soyadi>
+        <DogumTarihi>1981</DogumTarihi>
+        <Memleketi>Türkiye</Memleketi>
+    </yazar>
+    <yazar>
+        <YazarId>3</YazarId>
+        <Adi>Elif</Adi>
+        <Soyadi>Şafak</Soyadi>
+        <DogumTarihi>1971</DogumTarihi>
+        <Memleketi>Türkiye</Memleketi>
+    </yazar>
+</YAZARLAR>
+
+<KITAPLAR>
+    <Kitap>
+        <KitapId>1</KitapId>
+        <ISBN>9786050917260</ISBN>
+        <Adi>Daha</Adi>
+        <BaskiTarihi>2013</BaskiTarihi>
+        <Sayfa>420</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>2</KitapId>
+        <ISBN>9789759917951</ISBN>
+        <Adi>Kinyas ve Kayra</Adi>
+        <BaskiTarihi>2003</BaskiTarihi>
+        <Sayfa>576</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>3</KitapId>
+        <ISBN>9789750511189</ISBN>
+        <Adi>Hikayem Paramparça</Adi>
+        <BaskiTarihi>2012</BaskiTarihi>
+        <Sayfa>176</Sayfa>
+        <Tur>Öykü</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>4</KitapId>
+        <ISBN>9789753168175</ISBN>
+        <Adi>Darağacında Üç Fidan</Adi>
+        <BaskiTarihi>2005</BaskiTarihi>
+        <Sayfa>220</Sayfa>
+        <Tur>Biyografi</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+    <KitapId>5</KitapId>
+        <ISBN>9789750807251</ISBN>
+        <Adi>Yer Demir Gök Bakır - Dağın Öteki Yüzü 2</Adi>
+        <BaskiTarihi>2003</BaskiTarihi>
+        <Sayfa>392</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>6</KitapId>
+        <ISBN>9789750504402</ISBN>
+        <Adi>Her Temas İz Bırakır</Adi>
+        <BaskiTarihi>2006</BaskiTarihi>
+        <Sayfa>299</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>7</KitapId>
+        <ISBN>9786051418827</ISBN>
+        <Adi>Uzun Beyaz Bulut Gelibolu</Adi>
+        <BaskiTarihi>2001</BaskiTarihi>
+        <Sayfa>318</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>8</KitapId>
+        <ISBN>86966021405210</ISBN>
+        <Adi>Aşk</Adi>
+        <BaskiTarihi>2009</BaskiTarihi>
+        <Sayfa>419</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>9</KitapId>
+        <ISBN>9786054401239</ISBN>
+        <Adi>Nutuk</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>351</Sayfa>
+        <Tur>Söylev</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>10</KitapId>
+        <ISBN>9786050939828</ISBN>
+        <Adi>Huzursuzluk</Adi>
+        <BaskiTarihi>2017</BaskiTarihi>
+        <Sayfa>160</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>11</KitapId>
+        <ISBN>9786059143295</ISBN>
+        <Adi>Yine De Hayat</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>293</Sayfa>
+        <Tur>Öykü</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>12</KitapId>
+        <ISBN>9786050912579</ISBN>
+        <Adi>Beynine Format At</Adi>
+        <BaskiTarihi>2013</BaskiTarihi>
+        <Sayfa>252</Sayfa>
+        <Tur>Kişisel Gelişim</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>13</KitapId>
+        <ISBN>9789753425988</ISBN>
+        <Adi>Yüzüklerin Efendisi -I- Yüzük Kardeşliği</Adi>
+        <BaskiTarihi>2000</BaskiTarihi>
+        <Sayfa>496</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>14</KitapId>
+        <ISBN>9789753421812</ISBN>
+        <Adi>Yüzüklerin Efendisi -II- İki Kule</Adi>
+        <BaskiTarihi>2014</BaskiTarihi>
+        <Sayfa>416</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+    <KitapId>15</KitapId>
+        <ISBN>9789753422024</ISBN>
+        <Adi>Yüzüklerin Efendisi -III- Kralın Dönüşü</Adi>
+        <BaskiTarihi>2015</BaskiTarihi>
+        <Sayfa>408</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    
+    
+</KITAPLAR>
+    </KUTUPHANE>
