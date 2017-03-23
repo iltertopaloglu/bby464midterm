@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Hikayem Paramparça</dc:title>
+    <dc:creator>Emrah Serbes</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kinyas ve Kayra</dc:title>
+    <dc:creator>Hakan Günday</dc:creator>
+    <dc:date>2003</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>   
+    <rdf:Description rdf:about="Kitap">
+    <dc:title>Daha</dc:title>
+    <dc:creator>Hakan Günday</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+        </rdf:Description>
+</rdf:RDF>
